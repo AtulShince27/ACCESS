@@ -4,7 +4,7 @@
 
  - Clone the project using the following command:
 > ```shell
-> git clone https://github.com/AtulShince27/Mini_Project_2024/
+> git clone https://github.com/AtulShince27/ACCESS/
 > ```
 
 # 2. After making changes to the project , Creating a New Branch:
